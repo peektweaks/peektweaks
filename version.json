@@ -1,9 +1,0 @@
-{
-  "notes": "First release",
-  "premium_sha256": "969c1115ede3cd9acfad4cf2bbb40375868e4263a204605bc9168f9678618de1",
-  "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "4e1f1cc0c482e5a74107005fc37a39f48c38f6c33e8c4369e87ba7f67f125801",
-  "sig": "ixrXQdyOVZmNYX460Nj3eE6+AL2upNa0z7NlJdFB+LBu5KSH0CkMhOPiR1z3oDTZrL256AOhQb08xxlHEXaXBw==",
-  "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.0"
-}
