@@ -1,9 +1,9 @@
 {
-  "notes": "Fortnite lag-free pack (Premium)",
-  "premium_sha256": "cca3b74cedec2c51f44d854b199197759bb38a5cdbd398a91577f5bcc868ca71",
+  "notes": "New Connection tab (live ping + 11 network tweaks), Windows Startup Apps manager, Fortnite tweaks",
+  "premium_sha256": "9c1f9d35ed5d7f21c4f86e1e40fe6609caaa04f6c659009d92bd5a2e43992472",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "4fe1810ae77be5c6c63d4f3780347931e0c0ae4514cbe0653e1eb89d662bba29",
-  "sig": "KcVFwl3sWnGq7QigEtENCuGQqzqi6RqkRtjT+hYeIzBUWvmww2iv4e6Qg3KJKxZcBdhRJFSbjToTB1Z5KXXXBg==",
+  "sha256": "b0773f159d633d8f3a4c54d209ee77ba4fe8d18e62d1bcb3639693730a286c9c",
+  "sig": "t6lC0QOfpp+MoBbaw6W+XrMNu2Wj5LFJv7TJuZaAgbMMGupwrxPqBgYejKqeDm4cve1/HuFVQIzZl2nT+4wwAA==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.5"
+  "version": "1.0.7"
 }
