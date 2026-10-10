@@ -1,9 +1,9 @@
 {
-  "notes": "Premium: settings restored automatically",
-  "premium_sha256": "dda372e5cf2fde79ec21e444f3dbee8584d358025fc6e0377819a1d749540185",
+  "notes": "New Glow Pills look, update popup",
+  "premium_sha256": "92b650cd67f644be360643b120ebc28cc1d712572f1e937ef99677b97da645d9",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "9880af1034e17a31dd561a6eb35d204014524e636a813f969ec888a06b38e303",
-  "sig": "rL4916/EHNCr6sAopVrwqYJgXK8+pcShXDfJ3iuQ/jYNMY0P2QPugFOo0Y50Py/BDofFyiieA+lrToYrR/uXCQ==",
+  "sha256": "b4cd9d5f7116b2e7d4d6cc44035eed6d17265638271b210867e0acc519f1ddaa",
+  "sig": "eB2g2X3xSVa8YRNbIjvdWIKM0b7pdAcCd6zubK1bHSvio97D8LhlSyzQ46TuKKm7L/SAjzq42jUepnsmyqnECQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
