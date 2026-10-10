@@ -1,9 +1,9 @@
 {
-  "notes": "New sidebar with icons and details",
-  "premium_sha256": "069a8588a8c06d1c6fd5bb14489becb223acabc188b8a8f28d86b51256d1c080",
+  "notes": "Premium: settings restored automatically",
+  "premium_sha256": "dda372e5cf2fde79ec21e444f3dbee8584d358025fc6e0377819a1d749540185",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "da4bfa2c69b8df51755fbb019d46b35427096b2d90e3fe3614ad90cce5fb234e",
-  "sig": "oTa190+huXlNDKAOQrWOG8fJUdXdBh5cQM+fZ7kyPOhllKBgkFVWD6jfEgg5VLPaWw5N1mdcsljT7TmWQ/n7AA==",
+  "sha256": "9880af1034e17a31dd561a6eb35d204014524e636a813f969ec888a06b38e303",
+  "sig": "rL4916/EHNCr6sAopVrwqYJgXK8+pcShXDfJ3iuQ/jYNMY0P2QPugFOo0Y50Py/BDofFyiieA+lrToYrR/uXCQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.1"
+  "version": "1.0.3"
 }
