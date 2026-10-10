@@ -1,9 +1,9 @@
 {
-  "notes": "New Glow Pills look, update popup",
-  "premium_sha256": "92b650cd67f644be360643b120ebc28cc1d712572f1e937ef99677b97da645d9",
+  "notes": "Fortnite lag-free pack (Premium)",
+  "premium_sha256": "cca3b74cedec2c51f44d854b199197759bb38a5cdbd398a91577f5bcc868ca71",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "b4cd9d5f7116b2e7d4d6cc44035eed6d17265638271b210867e0acc519f1ddaa",
-  "sig": "eB2g2X3xSVa8YRNbIjvdWIKM0b7pdAcCd6zubK1bHSvio97D8LhlSyzQ46TuKKm7L/SAjzq42jUepnsmyqnECQ==",
+  "sha256": "4fe1810ae77be5c6c63d4f3780347931e0c0ae4514cbe0653e1eb89d662bba29",
+  "sig": "KcVFwl3sWnGq7QigEtENCuGQqzqi6RqkRtjT+hYeIzBUWvmww2iv4e6Qg3KJKxZcBdhRJFSbjToTB1Z5KXXXBg==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
