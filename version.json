@@ -1,9 +1,9 @@
 {
-  "notes": "New Connection tab (live ping + 11 network tweaks), Windows Startup Apps manager, Fortnite tweaks",
-  "premium_sha256": "9c1f9d35ed5d7f21c4f86e1e40fe6609caaa04f6c659009d92bd5a2e43992472",
+  "notes": "Much smoother interface: fixed freezes and low frame rate on Fortnite, Connection and System pages",
+  "premium_sha256": "8265076dcbe17382687f9750724a663810030410cc1b06981270c23fcf84374e",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "b0773f159d633d8f3a4c54d209ee77ba4fe8d18e62d1bcb3639693730a286c9c",
-  "sig": "t6lC0QOfpp+MoBbaw6W+XrMNu2Wj5LFJv7TJuZaAgbMMGupwrxPqBgYejKqeDm4cve1/HuFVQIzZl2nT+4wwAA==",
+  "sha256": "ec601c2f1436896f1c138ce1643eef993e058fbb1f2854204bd9ca1bf3f7c22f",
+  "sig": "Ip4PbFMgahSg1dKV1RHM8jvD7DTB7myvvo4JOmRoU9wfmfHz3qAuOoI3xA14ej7hmtczoQfTjmNDi0mt+NDVAA==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
