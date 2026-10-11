@@ -1,9 +1,9 @@
 {
-  "notes": "Controller latency now covers PS5 DualSense, DualShock 4 and Xbox pads",
-  "premium_sha256": "3fffc41dd798cf58a7f29a041cc70bfa8a64438c8208e0823797655bdd9c8734",
+  "notes": "New: Ping boost for your games (pick games or add the game file)",
+  "premium_sha256": "d9c94630a0d2989ca30592f114880ff8a4a7288666e3cf4fa8522986441851ab",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "5aa5d56ff3320d84e9639e72e46e316a34c3a61a41e87c9d16a6c498336b23ed",
-  "sig": "JfXZ9T8n1ktyPqC1w2eGCFdQlQNrdDHnk0USUhXt5hlPSDgnkrWPWcOZntz/UHQ2iwURz2wx/E+9SRKo903KCw==",
+  "sha256": "3fb347f949b0af9a0647ff22891eb5b3b4d9ce2fca4d127f079973347dac493b",
+  "sig": "F0BykVZlt3oKBiTmKnijTdOqC0OEffVQK3OrHu6bRDheMgn8AQyKqx9qqWqWUWlqB3SNHS5eIWv9VibxFvfvAQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.1.1"
+  "version": "1.2.0"
 }
