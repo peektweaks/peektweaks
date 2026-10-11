@@ -1,9 +1,9 @@
 {
-  "notes": "Much smoother interface: fixed freezes and low frame rate on Fortnite, Connection and System pages",
-  "premium_sha256": "8265076dcbe17382687f9750724a663810030410cc1b06981270c23fcf84374e",
+  "notes": "New tools: 0 delay keyboard and mouse, controller latency",
+  "premium_sha256": "7acf9a710a7d29de66104a33728b497a403282a542d587e7ad83b7450991a55d",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "ec601c2f1436896f1c138ce1643eef993e058fbb1f2854204bd9ca1bf3f7c22f",
-  "sig": "Ip4PbFMgahSg1dKV1RHM8jvD7DTB7myvvo4JOmRoU9wfmfHz3qAuOoI3xA14ej7hmtczoQfTjmNDi0mt+NDVAA==",
+  "sha256": "235d8d1edeb13761bf9dc5c9b00994d3900803c19a53141381e4b6046462b4ed",
+  "sig": "gSAvDYWDOIMkP1mKWQ3QY5pidxMrQtUlL5ZHe7202aHn1tOz+4il7dDU0ZyMG2IXLahGHxTRaT+GshiMTKMnBQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.0.8"
+  "version": "1.1.0"
 }
