@@ -1,9 +1,9 @@
 {
-  "notes": "1.5.1: new Fortnite option 'Old Performance look'.",
-  "premium_sha256": "637264473becce83f9bccba233f2260b191ad61eae8420158a055d0946886074",
+  "notes": "1.5.0: Fortnite stretched resolution, fullscreen exclusive, shader cache, ping by region. Recommended button on every page. Create account / sign in.",
+  "premium_sha256": "3f1fa040d67e27047ba189f03722066235353dce58ba76834f33535677fa94ab",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "e83bf3864e9085ddb2d8f5603232f46176c8c58ceb83fa75e1b2af84f5ec1e4a",
-  "sig": "Js3acDhZcpchHHEIPDK0F7pOklEGmH7BKjcMhMzY6QiXJ0BkzMS4IGwgaECWaBivSa0iOKEv04AcEF9LZAkEAw==",
+  "sha256": "c9e59b8964a43fb8f5433f7df678789762121bcd6eb08b6a94b40697b6d16efa",
+  "sig": "DHgWo6EF5dIZ4R4a6qmLM4qn2Wia5qttiXgcKmKGi/H/fqQtlJVbLAXpbLtoPGvFeJnAu2QQ8KczJhQ6a4+uDQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.5.1"
+  "version": "1.5.0"
 }
