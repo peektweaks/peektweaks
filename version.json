@@ -1,9 +1,9 @@
 {
-  "notes": "Real installer: Peek Tweaks now shows in Installed apps",
-  "premium_sha256": "dae054287d3e8d7729bd8da6d98203720c9b4b3ed3383df13620eb138f001fda",
+  "notes": "1.5.0: Fortnite stretched resolution, fullscreen exclusive, shader cache, ping by region. Recommended button on every page. Create account / sign in.",
+  "premium_sha256": "3f1fa040d67e27047ba189f03722066235353dce58ba76834f33535677fa94ab",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "38f75eb44a0360dbf1ee085856350fbc8ccb734e3e23001b25616af93609580e",
-  "sig": "7UXcDebV+K8522LGZt0exHzRE1rNTuLz/wkO4VA9WUVnrpcNKnjstB92t/sdOLa/Aao0qwWQR1CogUwcYrEuCQ==",
+  "sha256": "c9e59b8964a43fb8f5433f7df678789762121bcd6eb08b6a94b40697b6d16efa",
+  "sig": "DHgWo6EF5dIZ4R4a6qmLM4qn2Wia5qttiXgcKmKGi/H/fqQtlJVbLAXpbLtoPGvFeJnAu2QQ8KczJhQ6a4+uDQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.4.0"
+  "version": "1.5.0"
 }
