@@ -1,9 +1,9 @@
 {
-  "notes": "New: Ping boost for your games (pick games or add the game file)",
-  "premium_sha256": "d9c94630a0d2989ca30592f114880ff8a4a7288666e3cf4fa8522986441851ab",
+  "notes": "Real installer: Peek Tweaks now shows in Installed apps",
+  "premium_sha256": "dae054287d3e8d7729bd8da6d98203720c9b4b3ed3383df13620eb138f001fda",
   "premium_url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks-Premium.exe",
-  "sha256": "3fb347f949b0af9a0647ff22891eb5b3b4d9ce2fca4d127f079973347dac493b",
-  "sig": "F0BykVZlt3oKBiTmKnijTdOqC0OEffVQK3OrHu6bRDheMgn8AQyKqx9qqWqWUWlqB3SNHS5eIWv9VibxFvfvAQ==",
+  "sha256": "38f75eb44a0360dbf1ee085856350fbc8ccb734e3e23001b25616af93609580e",
+  "sig": "7UXcDebV+K8522LGZt0exHzRE1rNTuLz/wkO4VA9WUVnrpcNKnjstB92t/sdOLa/Aao0qwWQR1CogUwcYrEuCQ==",
   "url": "https://raw.githubusercontent.com/peektweaks/peektweaks/main/PeekTweaks.exe",
-  "version": "1.2.0"
+  "version": "1.4.0"
 }
